@@ -1,0 +1,4 @@
+# ninja log v5
+0	54	1683017599076837594	build.ninja	b587bc8b77f3c25e
+0	161	1680753454796033668	CMakeFiles/Assignment_2.dir/asteroids.c.o	f846a476526b250
+0	93	1682176685151030441	CMakeFiles/Assignment_2.dir/move_ship.c.o	3fbee7981a0aaaa1
